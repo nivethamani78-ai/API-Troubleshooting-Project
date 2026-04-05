@@ -24,7 +24,27 @@ Screenshots of API errors and successful responses are included in the repositor
 
 Tickets
 
-- Created 15 real-world troubleshooting tickets
+- Created 15 real-world troubleshooting ticket
+Ticket 1 Screenshot
+
+Error Screenshot:
+![Error](ticket1_404_error.jpeg)
+
+Success Screenshot:
+![Success](ticket1_success.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Each ticket includes Issue, Root Cause, and Solution
 
 Objective
