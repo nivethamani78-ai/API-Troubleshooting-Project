@@ -5,7 +5,7 @@ This project simulates real-time L2 Technical Support scenarios using API and SQ
 Tools Used
 
 - Postman
-- SQL (MySQL / SQLite)
+- SQL
 
 Project Overview
 
